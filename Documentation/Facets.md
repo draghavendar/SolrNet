@@ -156,3 +156,4 @@ http://wiki.apache.org/solr/HierarchicalFaceting#Pivot_Facets
 
 http://wiki.apache.org/solr/SimpleFacetParameters#Pivot_.28ie_Decision_Tree.29_Faceting
 
+This is sample text for testing branches concepts from Pluralsight.com --4/17/217 12:32
