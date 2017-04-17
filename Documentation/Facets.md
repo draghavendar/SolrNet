@@ -86,8 +86,7 @@ Pivot faceting allows creating multidimensional facets. You can create a pivot f
 
 In this example I will show you how to create a pivot facet that separates items by inStock but grouping them by in category.
 
-Please look at the example below:
-Please look at the example below:	Testing Stage and hunk--midle 4/17/2017 2:49
+Please look at the example below:	Testing Stage and hunk--midle 4/17/2017 2:49 --new 4/17/2017 3:03
 ```
 //Create a facet Pivot Query
 var facetPivotQuery = new SolrFacetPivotQuery()
