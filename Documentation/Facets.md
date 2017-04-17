@@ -1,3 +1,4 @@
+Testing Stage and hunk--begin 4/17/2017 2:46
 # Faceting
 
 SolrNet supports [faceted searching](https://cwiki.apache.org/confluence/display/solr/Faceting).
@@ -86,6 +87,7 @@ Pivot faceting allows creating multidimensional facets. You can create a pivot f
 In this example I will show you how to create a pivot facet that separates items by inStock but grouping them by in category.
 
 Please look at the example below:
+Please look at the example below:	Testing Stage and hunk--midle 4/17/2017 2:49
 ```
 //Create a facet Pivot Query
 var facetPivotQuery = new SolrFacetPivotQuery()
