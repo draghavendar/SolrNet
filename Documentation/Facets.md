@@ -155,4 +155,4 @@ Additional information to be found in:
 http://wiki.apache.org/solr/HierarchicalFaceting#Pivot_Facets
 
 http://wiki.apache.org/solr/SimpleFacetParameters#Pivot_.28ie_Decision_Tree.29_Faceting
-
+Sample text to test Branching concepts. --4/17/2017 12:25
